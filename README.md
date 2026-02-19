@@ -2,7 +2,7 @@ This is a project I’ve been working on — an external cheat. It’s very simp
 
 
 
-While it can work in other games, it was specifically designed for Valorant because of the purple outline 🎯. Yes — it’s a color‑based aimbot and trigger bot. If you want to use it elsewhere, you’ll need to change the target color or modify the code entirely.
+While it can work in other games, it was specifically designed for Valorant because of the purple outline 🎯. Yes — it’s a color-based aimbot and trigger bot. If you want to use it elsewhere, you’ll need to change the target color or modify the code entirely.
 
 
 
@@ -24,7 +24,7 @@ Use it at your own risk — and I hope you enjoy experimenting with it 🙂.
 
 Instructions
 
-1️⃣ Pre-requirements
+1️⃣ Prerequisites
 
 
 
@@ -36,11 +36,11 @@ If you encounter issues, switch to Python 3.11. ✅
 
 
 
-You also need this exact version of Logitech G-Hub: logitech-g-hub-2021-10-8013 installed on your machine, make sure automatic updates are off in the setting and make sure it a running program when you launch the cheat, it works sort of like a spoofer and any newer version will not work.
+You will also need this exact version of Logitech G-Hub: logitech-g-hub-2021-10-8013 installed on your machine. Make sure automatic updates are turned off in the settings, and ensure it is running when you launch the cheat. It works somewhat like a spoofer, and any newer version will not work.
 
 
 
-💻 You may also need .NET Framework 4.8 Runtime installed, so make sure that’s available on your system as well.
+💻 You may also need the .NET Framework 4.8 Runtime installed, so make sure that’s available on your system as well.
 
 
 
