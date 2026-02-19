@@ -36,7 +36,7 @@ If you encounter issues, switch to Python 3.11. ✅
 
 
 
-You will also need this exact version of Logitech G-Hub: logitech-g-hub-2021-10-8013 installed on your machine. Make sure automatic updates are turned off in the settings, and ensure it is running when you launch the cheat. It works somewhat like a spoofer, and any newer version will not work.
+You will also need this exact version of Logitech G-Hub: logitech-g-hub-2021-10-8013 installed on your machine. Make sure automatic updates are turned off in the settings, and ensure it's running when you launch the cheat. It works somewhat like a spoofer, and any newer version will not work.
 
 
 
