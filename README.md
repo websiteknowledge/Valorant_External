@@ -1,2 +1,2 @@
 # Valorant_External
-This is an external valorant cheat that has triggerbot and aimbot.
+This is an external valorant cheat that features triggerbot and aimbot.
