@@ -24,7 +24,7 @@ Use it at your own risk — and I hope you enjoy experimenting with it 🙂.
 
 Instructions
 
-1️⃣ Install Python
+1️⃣ Pre-requirements
 
 
 
@@ -33,6 +33,10 @@ You’ll need Python installed. I used Python 3.11, but other versions may work.
 
 
 If you encounter issues, switch to Python 3.11. ✅
+
+
+
+You also need this exact version logitech-g-hub-2021-10-8013 installed on your machine, make sure automatic updates are off in the setting and make sure it a running program when you launch the cheat, it works sort of like a spoofer and any newer version will not work.
 
 
 
